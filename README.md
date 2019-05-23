@@ -1,5 +1,5 @@
-# Humanoid-Motion-Record-and-Play-For-VRoid
-VRM VRoid Humanoid
+# Runtime Humanoid Motion Record and Play For VRoid
+Saved with "*.move" or you can define your extention
 
 ![titleimage](https://github.com/superowner/Humanoid-Motion-Record-and-Play-For-VRoid/blob/master/kjk.png?raw=true)
 
