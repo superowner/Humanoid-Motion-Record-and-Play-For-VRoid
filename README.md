@@ -1,4 +1,4 @@
-# Runtime Humanoid Motion and  Record and Play For VRoid
+# Runtime Humanoid Motion and Morphs Record and Play For VRoid
 ![titleimage](https://github.com/superowner/Humanoid-Motion-Record-and-Play-For-VRoid/blob/master/derger.png?raw=true)
 
 
@@ -14,3 +14,5 @@ chinese:https://www.jianshu.com/p/030c5a25b12f
 Github's upload speed is too slow so
 
 you can fork from:https://pan.baidu.com/s/15oA3qZdBsoidONiVzb_q0w  pass: cx79
+
+v0.2 supports morphs!
